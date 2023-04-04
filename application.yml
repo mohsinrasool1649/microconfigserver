@@ -6,5 +6,9 @@ eureka:
       defaultZone: http://localhost:7000/eureka/
   instance:
     prefer-ip-address: true
+    
+spring:  
+  application:
+    name: USERSERVICEapps
 
 
