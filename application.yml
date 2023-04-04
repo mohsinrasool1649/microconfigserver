@@ -7,8 +7,5 @@ eureka:
   instance:
     prefer-ip-address: true
     
-spring:  
-  application:
-    name: USERSERVICEapps
 
 
